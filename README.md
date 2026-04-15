@@ -1,6 +1,7 @@
 # `com.obd` — OBD-II / ELM327 Command Layer
 
 A Kotlin library for communicating with ELM327-compatible OBD-II adapters over Bluetooth Serial Port Profile (SPP). Sends AT setup strings and SAE J1979 Mode/PID requests, parses hex responses into typed values.
+This library is inspired by the exisiting library written in Java by http://github.com/pires/obd-java-api
 
 ## Features
 
